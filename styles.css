@@ -3,7 +3,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f9f9f9;
+    background-color: #faf2f9;
     color: #333;
   }
   
@@ -16,7 +16,7 @@ body {
   
   #title {
     font-size: 2.5rem;
-    color: #e91e63;
+    color: #b824a4;
     margin-bottom: 20px;
   }
   
@@ -30,7 +30,7 @@ body {
     height: auto;
     margin: 0 auto;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(211, 162, 204, 0.247);
   }
   
   #img-caption {
@@ -46,7 +46,7 @@ body {
   
   #tribute-info h2 {
     font-size: 2rem;
-    color: #e91e63;
+    color: #b824a4;
     margin-bottom: 10px;
   }
   
@@ -56,7 +56,7 @@ body {
   }
   
   #tribute-link {
-    color: #e91e63;
+    color: #b824a4;
     text-decoration: none;
     font-weight: bold;
   }
